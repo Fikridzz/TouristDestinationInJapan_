@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tourist Destination In Japan</string>
+
+    <string-array name="nama_tempat">
+        <item>Golden Pavilion</item>
+        <item>Mount Fuji</item>
+        <item>Tokyo Imperial Palace</item>
+        <item>Tokyo Tower</item>
+        <item>Todaiji Temple</item>
+        <item>Great Buddha of Kamakura</item>
+        <item>Himeji Castle</item>
+        <item>Kiyomizu-dera</item>
+        <item>Jigokudani Monkey Park</item>
+        <item>Hiroshima Peace Memorial</item>
+        <item>Akihabara</item>
+
+    </string-array>
+
+    <string-array name="detail_tempat">
+        <item>Kinkakuji adalah nama umum untuk Rokuonji (鹿苑寺 Kuil Taman Rusa) merupakan sebuah kuil di Kyoto, Jepang. Bangunan ini dibangun pada tahun 1397 sebagai vila peristirahatan bagi shogun Ashikaga Yoshimitsu. Anaknya kemudian mengubah bangunan tersebut menjadi kuil Zen dari sekolah Rinzai. Kuil tersebut kemudian terbakar beberapa kali dalam masa Perang Onin.</item>
+        <item>Gunung Fuji adalah gunung tertinggi di Jepang, terletak di perbatasan Prefektur Shizuoka dan Yamanashi, di sebelah barat Tokyo. Gunung Fuji terletak dekat pesisir Pasifik di pusat Honshu. Fuji dikelilingi oleh tiga kota yaitu Gotemba (timur), Fuji-Yoshida (utara) dan Fujinomiya (barat daya). Gunung setinggi 3.776 m ini dikelilingi juga oleh lima danau yaitu Kawaguchi, Yamanaka, Sai, Motosu dan Shoji.</item>
+        <item>Istana Kekaisaran Tokyo adalah tempat tinggal utama dari Kaisar Jepang. Tempat ini adalah sebuah area seperti taman besar yang terletak di wilayah tertutup Chiyoda, Tokyo sampai Stasiun Tokyo dan berisi beberapa bangunan termasuk istana utama (宮殿 (Kyūden), tempat tinggal pribadi keluarga kekaisaran, tempat pengarsipan, museum dan kantor administratif.</item>
+        <item>Tokyo Tower adalah sebuah menara di Taman Shiba, Tokyo, Jepang. Tinggi keseluruhan 332,6 m dan merupakan bangunan menara baja tertinggi di dunia yang tegak sendiri di permukaan tanah.[4] Berdasarkan peraturan keselamatan penerbangan, menara ini dicat dengan warna oranye internasional dengan warna putih di beberapa tempat. Bangunan sekelilingnya lebih rendah, sehingga Menara Tokyo bisa dilihat dari berbagai lokasi di pusat kota.\n Menara Tokyo terkenal sebagai simbol kota Tokyo dan objek wisata daripada fungsinya sebagai menara antena pemancar TV analog (UHF/VHF), TV lokal digital, dan radio FM. Selain itu, perusahaan KA East Japan Railway menggunakan menara ini untuk meletakkan antena radio sistem darurat kereta api, dan sejumlah instrumen pengukuran dipasang oleh Kantor Lingkungan Hidup Metropolitan Tokyo.</item>
+        <item>Tōdai-ji adalah kuil Buddha yang terletak di kota Nara, Jepang. Letaknya di timur laut Taman Nara, dan merupakan kuil utama sekte Kegon. Kuil ini didirikan abad ke-8 (zaman Nara) oleh Kaisar Shōmu. Gohonzon berupa Buddha Wairocana yang dikenal sebagai Nara Daibutsu (Buddha Besar dari Nara). Perintis kuil adalah biksu bernama Rōben.</item>
+        <item>Kōtoku-in adalah sebuah kuil Buddhis dari sekte Jōdo-shū di kota Kamakura di Prefektur Kanagawa, Jepang.
+\n
+Kuil tersebut dikenal karena "Buddha Raksasa"nya (大仏 Daibutsu), sebuah patung Buddha Amitabha perunggu di luar ruangan yang monumental yang merupakan salah satu ikon Jepang paling terkenal.</item>
+        <item>Istana Himeji adalah sebuah istana yang terletak di kota Himeji, Prefektur Hyogo, Jepang. Menurut pembagian provinsi zaman dulu, istana ini terletak di Harima-no-kuni, Shikito-gun, Himeji. Pesona keindahan plesteran berwarna putih yang mendominasi tembok-tembok istana menjadikan Istana Himeji mempunyai sebutan lain "istana burung kuntul putih" (bahasa Jepang: 白鷺城, Shirasagi-jō). Istana Himeji merupakan salah satu contoh peninggalan arsitektur istana dari awal abad ke-17 yang paling penting.</item>
+        <item>Kiyomizu-dera merupakan kuil Budha kuno, yang dibangun pada tahun 798 dan sudah 10 kali mengalami kerusakan atau terbakar akibat perang atau bencana alam. Di belakang kuil utama terdapat kuil Jishu-jinja yang disebut dengan Dewa Perjodohan, dan di depan kuil terdapat 2 batu yang sering disebut "Batu Buta" dan "Batu Peramal Cinta". \n Konon kabarnya menurut penduduk setempat dengan menutup mata berjarak 100 m kita berjalan menuju batu buta tersebut dengan menutup mata atau memejamkan mata dan sampai tepat di depan batu buta, maka keinginan kita akan tercapai. Dan untuk menguji kesetiaan hati pada pasangan, kita dapat mencoba batu peramal cinta, caranya tetap sama dengan memejamkan mata, namun bila arah kaki kita tidak tepat menuju batu peramal cinta atau melenceng jauh maka hati kita masih memikirkan orang lain.</item>
+        <item>Taman ini merupakan bagian dari Taman Nasional Joshinetsu Kogen atau dikenal juga sebagai Shigakogen. Tempat ini terletak di lembah sungai Yokoyu di sebelah utara prefektur Nagano. Nama Jigokudani itu sendiri berarti "Lembah Neraka", karena banyaknya uap dan air panas yang mendidih dari celah-celah retakan di tanah bekunya, ditambah dengan curamnya lembah, dinginnya udara, dan bahaya hutannya.</item>
+        <item>Monumen Perdamaian Hiroshima terletak di dalam Taman Monumen Perdamaian Hiroshima yang terletak di sisi jembatan Aioi yang membentuk huruf T. Di sebelah selatan terdapat sungai Motoyasu, di sebelah utara terdapat jalur trem dalam kota Hiroden, stasiun trem bernama Genbaku Dome-mae dan stadion baseball yang merupakan homebase tim baseball Hiroshima Carp. Sekitar 200 meter di sebelah timur terdapat rumah sakit Shima-byōin yang merupakan hiposenter ledakan nuklir.</item>
+        <item>Akihabara atau Pusat Elektronik Akihabara (秋葉原電気街 Akihabara Denki Gai) adalah kawasan perbelanjaan yang terletak di sekitar Stasiun Akihabara, Tokyo, Jepang. Dengan kereta api, dari Stasiun Tokyo ke Akihabara memakan waktu kurang dari lima menit.
+\n
+Pusat Elektronik Akihabara tepatnya berlokasi di kawasan Akihabara, distrik kota Taitō dan kawasan Soto-kanda di distrik kota Chiyoda. Akihabara sering disingkat sebagai Akiba (アキバ)
+\n
+Akihabara merupakan pusat perbelanjaan untuk barang elektronik, suku cadang elektronik, anime, manga, dan doujinshi. Kawasan ini merupakan surga otaku di bidang anime, manga, dan permainan video. Di tempat ini terdapat banyak maid cafe. Di sini juga terdapat theater AKB48</item>
+
+    </string-array>
+</resources>
